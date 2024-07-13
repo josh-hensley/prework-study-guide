@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 This project was built out of the excitement I had for starting a new journey with coding.  This study guide is a representation, in itself, of what I have learned through the pre-work modules of SMU's coding bootcamp.  It is a simple web app that holds information that could prove useful for someone just starting out on their coding adventure.  In building this app, I've learned about source-control using git, HTML, and a small bit of CSS and JavaScript.    
 
 ## Installation
